@@ -2,5 +2,7 @@
 
 This is a repo for the in development Splitr app.
 
-## Possible New Names
-cheaply
+#### Possible New Names
+* cheaply
+* checkmate
+
