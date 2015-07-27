@@ -1,11 +1,11 @@
 # Features
-##### Added
+#### Added
 
-##### Working on adding
+#### Working on adding
 * OpenCV for rectangles
 * Shoeboxed (working on it)
 * iOS Frontend
 
-##### Cool features for later
+#### Cool features for later
 * Yelp check in
 
